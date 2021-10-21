@@ -79,5 +79,5 @@
 
 <h2 align="center">Profile Stats  📉</h2>
 
-|<img align="center" src="https://github-readme-stats.vercel.app/api?username=pritambera2000&count_private=true&show_icons=true&theme=buefy&hide_border=true" alt=""><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pritambera2000&layout=compact&theme=buefy&hide_border=true">|
+|<img align="center" src="https://github-readme-stats.vercel.app/api?username=pritambera2000&count_private=true&show_icons=true&theme=buefy&hide_border=true" alt=""> | <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pritambera2000&layout=compact&theme=buefy&hide_border=true">|
 | ------------- | ------------- | 
