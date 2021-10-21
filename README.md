@@ -23,7 +23,9 @@
 - 💻 Curious about Cybersecurity
 <br>
 <!-- <h2 align="center"> Technical Skills 🛠 </h2>  -->
+
 ### Technical Skills 🛠
+
 <!-- <p align="center"> -->
 <a href="">
     <img width="33px" src="https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png" alt="">
