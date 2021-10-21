@@ -26,7 +26,7 @@
 
 ### Technical Skills 🛠
 
-<!-- <p align="center"> -->
+<p>
 <a href="">
     <img width="33px" src="https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png" alt="">
 </a>
@@ -47,7 +47,7 @@
   <img width="33px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apache/apache-original.svg" />
 
    <img width="33px"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" />
-<!-- </p> -->
+</p>
 
 <br>
 
