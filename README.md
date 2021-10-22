@@ -1,28 +1,24 @@
 <!-- Intro Scetion -->
 <h1> Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40px"> I'm </h2>
-
 <p>
 <a href="https://github.com/pritambera2000" target="_blank">
     <img height="45px" src="https://img.shields.io/badge/-P%20R%20I%20T%20A%20M-blue?style=for-the-badge" alt="">
 <img height="45px"  src="https://img.shields.io/badge/-B%20E%20R%20A-pink?style=for-the-badge" alt="">
-
+<img align = "right" height="380" width="400" src=" https://uploads-ssl.webflow.com/5e3ce2ec7f6e53c045fe7cfa/603dd7815e7536a962af11bd_Frame-157.png"/>
 </a>
 <h4> Self-taught developer with a keen interest in Linux</h4>
-</p>
 
+</p>
 <!-- About Me Section -->
 
-## About Me 🚀
-
+<!-- ## About Me 🚀  -->
+<h2>About Me 🚀</h2>
 - 🎓 I’m currently pursuing my Bachelors Degree in Zoology<br>
 - 🌱 Trying to getting better in web-dev <br>
 - 🐧 learning Linux fundamentals <br>
 - 💻 Curious about Cybersecurity
-<br>
 <!-- Skills Section -->
-
-## Technical Skills 🛠
-
+<h2>Technical Skills 🛠</h2>
 <p>
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
     <img width="33px"style="margin-left: 5px;" src="https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png" alt="">
@@ -39,6 +35,7 @@
    <img width="33px" style="margin-left: 20px;"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" />
 
 </p>
+
 
 <!-- Profile Stats -->
 
