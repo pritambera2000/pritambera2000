@@ -4,7 +4,7 @@
 <a href="https://github.com/pritambera2000" target="_blank">
     <img height="45px" src="https://img.shields.io/badge/-P%20R%20I%20T%20A%20M-blue?style=for-the-badge" alt="">
 <img height="45px"  src="https://img.shields.io/badge/-B%20E%20R%20A-pink?style=for-the-badge" alt="">
-<img align = "right" height="380" width="400" src=" https://uploads-ssl.webflow.com/5e3ce2ec7f6e53c045fe7cfa/603dd7815e7536a962af11bd_Frame-157.png"/>
+<img align = "right" height="380" width="400" src=" https://uploads-ssl.webflow.com/5e3ce2ec7f6e53c045fe7cfa/603dd7815e7536a962af11bd_Frame-157.png">
 </a>
 <h4> Self-taught developer with a keen interest in Linux</h4>
 
