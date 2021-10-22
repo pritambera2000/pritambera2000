@@ -14,7 +14,7 @@
 <!-- ## About Me 🚀  -->
 <h2>About Me 🚀</h2>
 - 🎓 I’m currently pursuing my Bachelors Degree in Zoology<br>
-- 🌱 Trying to getting better in web-dev <br>
+- 🌱 Trying to be better in web-dev <br>
 - 🐧 learning Linux fundamentals <br>
 - 💻 Curious about Cybersecurity
 <!-- Skills Section -->
