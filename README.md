@@ -1,22 +1,25 @@
 <!-- Intro Scetion -->
-<h1> Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40px"> I'm </h2>
+<h1> Hi there, <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40px"> I'm </h2>
 <p>
-<a href="https://github.com/pritambera2000" target="_blank">
-    <img height="45px" src="https://img.shields.io/badge/-P%20R%20I%20T%20A%20M-blue?style=for-the-badge" alt="">
+<a href="https://github.com/pritambera2000" target="_blank" >
+<img height="45px" src="https://img.shields.io/badge/-P%20R%20I%20T%20A%20M-blue?style=for-the-badge" alt=""  >
 <img height="45px"  src="https://img.shields.io/badge/-B%20E%20R%20A-pink?style=for-the-badge" alt="">
-<img align = "right" height="380" width="400" src="https://uploads-ssl.webflow.com/5e3ce2ec7f6e53c045fe7cfa/603dd7815e7536a962af11bd_Frame-157.png" />
 </a>
+<img align="right" width="400" src="./assets/blogging.svg" />
 <h4> Self-taught developer with a keen interest in Linux</h4>
-
+<!-- <img align = "right" width="400" src="./assets/web development.svg" /> -->
 </p>
-<!-- About Me Section -->
 
-<!-- ## About Me 🚀  -->
+<!-- About Me Section -->
+<p align="left" >
+
 <h2>About Me 🚀</h2>
-- 🎓 I’m currently pursuing my Bachelors Degree in Zoology<br>
-- 🌱 Trying to be better in web-dev <br>
-- 🐧 learning Linux fundamentals <br>
+
+- 🎓 I’m currently pursuing my Bachelors Degree in Zoology
+- 🌱 Trying to be better in web-dev
+- 🐧 learning Linux fundamentals
 - 💻 Curious about Cybersecurity
+</p>
 <!-- Skills Section -->
 <h2>Technical Skills 🛠</h2>
 <p>
@@ -36,13 +39,12 @@
 
 </p>
 
-
 <!-- Profile Stats -->
 
 ## Profile Stats 📉
 
 | <img align="center" src="https://github-readme-stats.vercel.app/api?username=pritambera2000&count_private=true&show_icons=true&theme=buefy&hide_border=true" alt=""> | <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pritambera2000&layout=compact&theme=buefy&hide_border=true"> |
-| ------------- | ------------- | 
+| -------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------- |
 
 <!-- Socials -->
 
@@ -79,7 +81,7 @@
   <img align="right" alt="Pritam Bera | ProtonMail" src="https://img.shields.io/badge/-Private-green?style=social&logo=protonmail" />
 </a>
 <a href="https://t.me/dotslashpritam" target="_blank">
-  <img align="right" alt="Pritam Bera | ProtonMail" src="https://img.shields.io/badge/-Personal-green?style=social&logo=telegram" />
+  <img align="right" alt="Pritam Bera | Telegram" src="https://img.shields.io/badge/-Personal-green?style=social&logo=telegram" />
 </a>
 
 <br>
