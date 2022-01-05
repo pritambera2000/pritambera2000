@@ -16,9 +16,9 @@
 <h2>About Me 🚀</h2>
 
 - 🎓 I’m currently pursuing my Bachelors Degree in Zoology
-- 🌱 Trying to be better in web-dev
+- 🌱 Currently learning Basic JavaScript & BootStrap
 - 🐧 learning Linux fundamentals
-- 💻 Curious about Cybersecurity
+- 💻 Learning Basics Of Networking & CyberSecurity @TryHackMe
 </p>
 <!-- Skills Section -->
 <h2>Technical Skills 🛠</h2>
