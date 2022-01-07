@@ -24,7 +24,6 @@
 <h2>Technical Skills 🛠</h2>
 <p>
 
-![Shell Script](https://img.shields.io/badge/BASH-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
@@ -32,15 +31,15 @@
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 ![Vim](https://img.shields.io/badge/VIM-%2311AB00.svg?style=for-the-badge&logo=vim&logoColor=white)
-
+![Shell Script](https://img.shields.io/badge/BASH-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)
 </p>
 
 <!-- Profile Stats -->
 
 ## Profile Stats 📉
-
-| <img align="center" src="https://github-readme-stats.vercel.app/api?username=pritambera2000&count_private=true&show_icons=true&theme=buefy&hide_border=true" alt=""> | <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pritambera2000&layout=compact&theme=buefy&hide_border=true"> |
-| -------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------- |
+![Pritam Bera's GitHub stats](https://github-readme-stats.vercel.app/api?username=pritambera2000&count_private=true&show_icons=true&theme=buefy)![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pritambera2000&layout=compact&theme=buefy)
+<!-- | <img align="center" src="https://github-readme-stats.vercel.app/api?username=pritambera2000&count_private=true&show_icons=true&theme=buefy&hide_border=true" alt=""> | <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pritambera2000&layout=compact&theme=buefy&hide_border=true"> |
+| -------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------- | -->
 
 <!-- Socials -->
 
