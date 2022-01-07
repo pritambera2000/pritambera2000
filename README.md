@@ -23,23 +23,15 @@
 <!-- Skills Section -->
 <h2>Technical Skills 🛠</h2>
 <p>
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
-    <img width="33px"style="margin-left: 5px;" src="https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png" alt="">
-</a>
-<a href="https://sass-lang.com/guide" target="_blank">
-    <img width="33px" style="margin-left: 20px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" />
-</a>
-<img width="33px" style="margin-left: 20px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
 
- <img width="33px" style="margin-left: 20px;"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />
-
-  <img width="33px" style="margin-left: 20px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apache/apache-original.svg" />
-
-   <img width="33px"  style="margin-left: 20px;"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" />
-
-   <img width="33px"  style="margin-left: 20px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
-
-   <img width="33px" style="margin-left: 20px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" />
+![Shell Script](https://img.shields.io/badge/BASH-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+![BootStrap](https://img.shields.io/badge/-Bootstrap-%238A12FC?style=for-the-badge&logo=bootstrap&logoColor=white)
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+![Vim](https://img.shields.io/badge/VIM-%2311AB00.svg?style=for-the-badge&logo=vim&logoColor=white)
 
 </p>
 
