@@ -35,7 +35,11 @@
 
   <img width="33px" style="margin-left: 20px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apache/apache-original.svg" />
 
-   <img width="33px" style="margin-left: 20px;"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" />
+   <img width="33px"  style="margin-left: 20px;"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" />
+
+   <img width="33px"  style="margin-left: 20px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
+
+   <img width="33px" style="margin-left: 20px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" />
 
 </p>
 
