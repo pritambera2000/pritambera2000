@@ -44,6 +44,7 @@
 ## Latest Blogs 📕
 
 <!-- BLOG-POST-LIST:START -->
+- [How To Connect a Remote Server Via SSH](https://dev.to/pritambera2000/how-to-connect-a-remote-server-via-ssh-3i91)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- Socials -->
