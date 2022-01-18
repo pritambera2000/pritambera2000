@@ -43,7 +43,7 @@
 <code><img width="37px" style="margin-left:20px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"alt="Pritam Bera | Langs&Tools"></code>
 </a>
 <a href="https://gitlab.com/pritambera2000/Dotfiles" target="_blank">
-<code><img width="37px" style="margin-left:20px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg"alt="Pritam Bera | Langs&Tools"></code>
+<code> <img width="37px" style="margin-left:20px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg"alt="Pritam Bera | Langs&Tools"></code>
 </a>
 <a href="https://www.vim.org/" target="_blank">
 <code><img width="37px" style="margin-left:20px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vim/vim-original.svg"alt="Pritam Bera | Langs&Tools"></code>
