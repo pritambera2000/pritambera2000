@@ -101,6 +101,9 @@
 <a href="https://twitter.com/dotslashpritam" target="_blank">
     <img src="https://img.shields.io/badge/-TWITTER-%09%231DA1F2?style=for-the-badge&logo=twitter&logoColor=white&logoWidth=17" alt="Pritam Bera | Twitter">
 </a>
+<a href="https://pritambera2000.hashnode.dev/" target="_blank">
+    <img src="https://img.shields.io/badge/-HASHNODE-%232962FF?style=for-the-badge&logo=hashnode&logoColor=white&logoWidth=17" alt="Pritam Bera | Hashnode">
+</a>
 <a href="https://dev.to/pritambera2000" target="_blank">
     <img src="https://img.shields.io/badge/-dev-black?style=for-the-badge&logo=dev.to" alt="Pritam Bera | dev.to">
 </a>
