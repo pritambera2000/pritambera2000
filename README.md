@@ -75,7 +75,7 @@
 <!-- | <img align="center" src="https://github-readme-stats.vercel.app/api?username=pritambera2000&count_private=true&show_icons=true&theme=buefy&hide_border=true" alt=""> | <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pritambera2000&layout=compact&theme=buefy&hide_border=true"> |
 | -------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------- | -->
 
-## Latest Blogs 📕
+## Latest Blogs 📕 ✍️
 
 <!-- BLOG-POST-LIST:START -->
 - [How To Connect a Remote Server Via SSH](https://dev.to/pritambera2000/how-to-connect-a-remote-server-via-ssh-3i91)
