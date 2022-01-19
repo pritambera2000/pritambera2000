@@ -67,7 +67,7 @@
 
 <!-- Profile Stats -->
 
-## Profile Stats 📉
+## Profile Stats 📈 📉
 
 ![Pritam Bera's GitHub stats](https://github-readme-stats.vercel.app/api?username=pritambera2000&count_private=true&show_icons=true&theme=buefy)![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pritambera2000&layout=compact&theme=buefy)
 
