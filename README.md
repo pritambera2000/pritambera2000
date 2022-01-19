@@ -122,7 +122,7 @@
 <a href="https://t.me/dotslashpritam" target="_blank">
   <img align="right" alt="Pritam Bera | Telegram" src="https://img.shields.io/badge/-Personal-green?style=social&logo=telegram" />
 </a>
-<a href="https://bit.ly/33Jr5Cj" target="_blank">
+<a href="https://open.spotify.com/playlist/3sK9eJPfx7zQgHjgnreUrJ?si=8vqNthxGRYuVDbpiNkis3g&utm_source=whatsapp" target="_blank">
   <img align="right" alt="Pritam Bera | Telegram" src="https://img.shields.io/badge/-ListenPritam-green?style=social&logo=spotify" />
 </a>
 
