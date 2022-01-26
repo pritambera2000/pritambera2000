@@ -1,5 +1,5 @@
 <!-- Intro Scetion -->
-<h1> Hi there, <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40px"> I'm </h2>
+<h1> Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40px"> I'm </h2>
 <p>
 <a href="https://github.com/pritambera2000" target="_blank" >
 <img height="45px" src="https://img.shields.io/badge/-P%20R%20I%20T%20A%20M-blue?style=for-the-badge" alt=""  >
@@ -19,6 +19,7 @@
 - 🌱 Currently learning Basic JavaScript & BootStrap
 - 🐧 learning Linux fundamentals
 - 💻 Learning Basics Of Networking & CyberSecurity @TryHackMe
+
 </p>
 <!-- Skills Section -->
 <h2>Technical Skills 🛠</h2>
@@ -26,7 +27,7 @@
 <a href="https://bit.ly/33Jr5Cj" target="_blank">
 <code>
 <img width="37px" style="margin-left:20px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"alt="Pritam Bera | Langs&Tools">
-</code>     
+</code>
 </a>
 <a href="https://sass-lang.com/" target="_blank">
 <code>
@@ -51,7 +52,6 @@
 <a href="https://github.com/pritambera2000/Frontend_Practices" target="_blank">
 <code><img width="37px" style="margin-left:20px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"alt="Pritam Bera | GitLab"></code>
 </a>
-
 
 <!-- /// Icon Styles with shields For Later Use 👇 /// -->
 
@@ -114,9 +114,11 @@
 
 <br>
 <br>
+
 <!-- TeleGram & Mail Link -->
 
 </p>
+
 <a href="mailto:dev.pritambera@pm.me" target="_blank">
   <img align="right" alt="Pritam Bera | ProtonMail" src="https://img.shields.io/badge/-Private-green?style=social&logo=protonmail" />
 </a>
