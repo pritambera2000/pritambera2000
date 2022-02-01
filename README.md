@@ -68,12 +68,13 @@
 <!-- Profile Stats -->
 
 ## Profile Stats 📈 📉
+<!-- // Style For Both Card WithOut Box 👇 /// -->
 
-![Pritam Bera's GitHub stats](https://github-readme-stats.vercel.app/api?username=pritambera2000&count_private=true&show_icons=true&theme=buefy)![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pritambera2000&layout=compact&theme=buefy)
+<!-- ![Pritam Bera's GitHub stats](https://github-readme-stats.vercel.app/api?username=pritambera2000&count_private=true&show_icons=true&theme=buefy)![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pritambera2000&layout=compact&theme=buefy) -->
 
 <!-- // Style For Both Card In Box 👇 /// -->
-<!-- | <img align="center" src="https://github-readme-stats.vercel.app/api?username=pritambera2000&count_private=true&show_icons=true&theme=buefy&hide_border=true" alt=""> | <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pritambera2000&layout=compact&theme=buefy&hide_border=true"> |
-| -------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------- | -->
+| <img align="center" src="https://github-readme-stats.vercel.app/api?username=pritambera2000&count_private=true&show_icons=true&theme=cobalt&hide_border=false" alt=""> | <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pritambera2000&layout=compact&theme=cobalt&hide_border=false"> |
+| -------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------- |
 
 ## Latest Blogs 📕 ✍️
 
