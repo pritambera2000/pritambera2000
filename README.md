@@ -18,7 +18,7 @@
 - 🎓 I’m currently pursuing my Bachelors Degree in Zoology
 - 🌱 Currently learning Basic JavaScript & BootStrap
 - 🐧 learning Linux fundamentals
-- 💻 Learning Basics Of Networking & CyberSecurity @TryHackMe
+- 💻 Learning Basics Of Networking & CyberSecurity
 
 </p>
 <!-- Skills Section -->
