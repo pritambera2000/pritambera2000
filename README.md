@@ -79,7 +79,7 @@
 ## Latest Blogs 📕 ✍️
 
 <!-- BLOG-POST-LIST:START -->
-- [Osi Model, An Overview](https://pritambera2000.hashnode.dev/osi-model-an-overview)
+- [OSI Model, An Overview](https://pritambera2000.hashnode.dev/osi-model-an-overview)
 - [Beginners Guide for Getting Started with Git &amp; GitHub](https://pritambera2000.hashnode.dev/beginners-guide-for-getting-started-with-git-and-github)
 - [How To Connect a Remote Server Via SSH](https://dev.to/pritambera2000/how-to-connect-a-remote-server-via-ssh-3i91)
 <!-- BLOG-POST-LIST:END -->
