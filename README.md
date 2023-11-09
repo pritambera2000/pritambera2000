@@ -15,10 +15,10 @@
 
 <h2>About Me 🚀</h2>
 
-- 🎓 I’m currently pursuing my Bachelors Degree in Zoology
-- 🌱 Currently learning Basic JavaScript & BootStrap
-- 🐧 learning Linux fundamentals
-- 💻 Learning Basics Of Networking & CyberSecurity
+- 🎓 Masters in Biotechnoloy with a Major in Bioinformatics
+- 🌱 Doing somthing with application of AI and ML in Biology
+- 🐧 learning python
+- 💻 Learning Basics Of Tensorflow and Machine learning Algorithms
 
 </p>
 <!-- Skills Section -->
