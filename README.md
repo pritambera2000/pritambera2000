@@ -22,36 +22,34 @@
 
 </p>
 <!-- Skills Section -->
-<h2>Technical Skills 🛠</h2>
+<h2>🚀 Technical Skills 🛠</h2>
 <p>
 <a href="https://bit.ly/33Jr5Cj" target="_blank">
-<code>
-<img width="37px" style="margin-left:20px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"alt="Pritam Bera | Langs&Tools">
-</code>
+  <img width="37px" style="margin-left:20px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="Pritam Bera | Langs&Tools">
 </a>
 <a href="https://sass-lang.com/" target="_blank">
-<code>
-<img width="37px" style="margin-left:20px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png"alt="Pritam Bera | Langs&Tools">
-</code>
+  <img width="37px" style="margin-left:20px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png" alt="Pritam Bera | Langs&Tools">
 </a>
 <a href="https://getbootstrap.com/" target="_blank">
-<code>
-<img width="37px" style="margin-left:20px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg"alt="Pritam Bera | Langs&Tools">
-</code>
-<a href="https://github.com/pritambera2000/Frontend_Practices" target="_blank"> <code><img width="37px" style="margin-left:20px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg"alt="Pritam Bera | Langs&Tools"></code>
-</a>
-<a href="https://git-scm.com/" target="_blank">
-<code><img width="37px" style="margin-left:20px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"alt="Pritam Bera | Langs&Tools"></code>
-</a>
-<a href="https://gitlab.com/pritambera2000/Dotfiles" target="_blank">
-<code> <img width="37px" style="margin-left:20px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg"alt="Pritam Bera | Langs&Tools"></code>
-</a>
-<a href="https://www.vim.org/" target="_blank">
-<code><img width="37px" style="margin-left:20px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vim/vim-original.svg"alt="Pritam Bera | Langs&Tools"></code>
+  <img width="37px" style="margin-left:20px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" alt="Pritam Bera | Langs&Tools">
 </a>
 <a href="https://github.com/pritambera2000/Frontend_Practices" target="_blank">
-<code><img width="37px" style="margin-left:20px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"alt="Pritam Bera | GitLab"></code>
+  <img width="37px" style="margin-left:20px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="Pritam Bera | Langs&Tools">
 </a>
+<a href="https://git-scm.com/" target="_blank">
+  <img width="37px" style="margin-left:20px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Pritam Bera | Langs&Tools">
+</a>
+<a href="https://gitlab.com/pritambera2000/Dotfiles" target="_blank">
+  <img width="37px" style="margin-left:20px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" alt="Pritam Bera | Langs&Tools">
+</a>
+<a href="https://www.vim.org/" target="_blank">
+  <img width="37px" style="margin-left:20px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vim/vim-original.svg" alt="Pritam Bera | Langs&Tools">
+</a>
+<a href="https://github.com/pritambera2000/Frontend_Practices" target="_blank">
+  <img width="37px" style="margin-left:20px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="Pritam Bera | Langs&Tools">
+</a>
+</p>
+
 
 <!-- /// Icon Styles with shields For Later Use 👇 /// -->
 
