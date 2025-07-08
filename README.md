@@ -3,7 +3,7 @@
 <p>
 <a href="https://github.com/pritambera2000" target="_blank" ><img height="45px" src="https://img.shields.io/badge/-P%20R%20I%20T%20A%20M-blue?style=for-the-badge" alt="" ><img height="45px"  src="https://img.shields.io/badge/-B%20E%20R%20A-pink?style=for-the-badge" alt=""></a>
 <img align="right" width="400" src="./assets/blogging.svg" />
-<h4> Self-taught developer with a keen interest in Linux</h4>
+<h4> Bioinformatics Data Scientist | Computational Functional Genomics | ML | Precision Medicine </h4>
 <!-- <img align = "right" width="400" src="./assets/web development.svg" /> -->
 </p>
 
@@ -12,10 +12,7 @@
 
 <h2>About Me 🚀</h2>
 
-- 🎓 Masters in Biotechnoloy with a Major in Bioinformatics
-- 🌱 Doing somthing with application of AI and ML in Biology
-- 🐧 learning python
-- 💻 Learning Basics Of Tensorflow and Machine learning Algorithms
+- 🎓 My work focuses on analyzing gene expression patterns, particularly in cancer research, and developing computational models for predictive biomarker discovery. 
 
 </p>
 <!-- Skills Section -->
