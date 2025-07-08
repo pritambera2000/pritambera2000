@@ -59,9 +59,10 @@
 | <img align="center" src="https://github-readme-stats.vercel.app/api?username=pritambera2000&count_private=true&show_icons=true&theme=cobalt&hide_border=false" alt=""> | <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pritambera2000&layout=compact&theme=cobalt&hide_border=false"> |
 | -------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------- |
 
-## Latest Blogs 📕 ✍️
+## Latest Blogs / Publication 📕 ✍️
 
 <!-- BLOG-POST-LIST:START -->
+- [Integrating relieff-based feature selection and ensemble machine learning for robust biomarker identification in colorectal cancer](https://doi.org/10.1007/s13721-025-00533-1)
 - [OSI Model, An Overview](https://pritambera2000.hashnode.dev/osi-model-an-overview)
 - [Beginners Guide for Getting Started with Git &amp; GitHub](https://pritambera2000.hashnode.dev/beginners-guide-for-getting-started-with-git-and-github)
 - [How To Connect a Remote Server Via SSH](https://dev.to/pritambera2000/how-to-connect-a-remote-server-via-ssh-3i91)
